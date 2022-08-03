@@ -1,4 +1,3 @@
-#functions 8===D
 #---------------------------
 #position
 #moveTo(x, y, duration = n)
